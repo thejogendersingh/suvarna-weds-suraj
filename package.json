@@ -1,7 +1,7 @@
 {
-  "name": "harsh-weds-bhavana-wedding-invitation",
+  "name": "suvarna-weds-suraj-wedding-invitation",
   "version": "1.0.0",
-  "description": "Harsh & Bhavana Wedding Invitation",
+  "description": "Suvarna & Suraj Wedding Invitation",
   "scripts": {
     "start": "python server.py",
     "dev": "python server.py",
@@ -10,8 +10,8 @@
   "keywords": [
     "wedding",
     "invitation",
-    "harsh",
-    "bhavana"
+    "suvarna",
+    "suraj"
   ],
   "author": "",
   "license": "ISC"
